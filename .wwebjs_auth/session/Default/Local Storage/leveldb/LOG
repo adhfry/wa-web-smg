@@ -1,0 +1,14 @@
+2024/11/01-23:20:29.249 4848 Reusing MANIFEST C:\MyData\BOT WHATSAPP\bot-smaga\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/01-23:20:29.249 4848 Recovering log #13
+2024/11/01-23:20:29.249 4848 Reusing old log C:\MyData\BOT WHATSAPP\bot-smaga\.wwebjs_auth\session\Default\Local Storage\leveldb/000013.log 
+2024/11/01-23:21:29.855 35b0 Level-0 table #17: started
+2024/11/01-23:21:29.924 35b0 Level-0 table #17: 13889 bytes OK
+2024/11/01-23:21:29.927 35b0 Delete type=0 #13
+2024/11/01-23:21:29.928 35b0 Compacting 4@0 + 0@1 files
+2024/11/01-23:21:29.945 35b0 Generated table #18@0: 92 keys, 3755 bytes
+2024/11/01-23:21:29.946 35b0 Compacted 4@0 + 0@1 files => 3755 bytes
+2024/11/01-23:21:29.949 35b0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/01-23:21:29.950 35b0 Delete type=2 #7
+2024/11/01-23:21:29.950 35b0 Delete type=2 #11
+2024/11/01-23:21:29.950 35b0 Delete type=2 #14
+2024/11/01-23:21:29.950 35b0 Delete type=2 #17
